@@ -135,9 +135,3 @@ nav ul li + li + li{
 }
 
 
-.name{
-  position: absolute;
- bottom: -21vw;
- left: 43vw;
- font-weight: bold;
-}
